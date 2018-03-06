@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<cfargument name="${1:}"
+			required="${2:true}"
+			type="${3:}">
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>cfarg</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

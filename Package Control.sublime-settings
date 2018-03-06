@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"CloseOtherWindows",
+		"CloseTabsLeft",
+		"ColdFusion",
+		"Color Scheme - Creamy",
+		"Dark Neon Color Scheme",
+		"HtmlTidy",
+		"Indent XML",
+		"Neon Color Scheme",
+		"Package Control",
+		"SublimeLinter",
+		"TypeScript"
+	]
+}

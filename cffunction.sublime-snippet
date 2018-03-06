@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+<cffunction name="${1:}"
+			access="${2:public}"
+			returntype="${3:void}"
+			output="false">
+	${4:}
+	
+</cffunction>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>cffun</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
